@@ -1,2 +1,5 @@
 # IBM_RAG_with_Langchain
 Lab: Retrieval Augmented Generation with LangChain
+
+RAG is an architectural pattern that can be used to augment the performance of language models by recalling factual information from a knowledge base, and adding that information to the model query. The most common approach in RAG is to create dense vector representations of the knowledge base in order to retrieve text chunks that are semantically similar to a given user query.
+
